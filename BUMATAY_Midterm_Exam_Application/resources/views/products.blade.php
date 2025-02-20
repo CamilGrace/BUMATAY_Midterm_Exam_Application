@@ -7,7 +7,7 @@
     <title>Gadgets List</title>
     <style>
         body {
-            font-family: 'Pacifico', cursive;
+            font-family: 'Pacifico';
             margin: 20px;
             padding: 20px;
             background-color: #f4f4f4;
